@@ -32,7 +32,7 @@ export default function Home() {
           </h1>
         <p className="mt-8 mb-7 text-lg font-bold text-stone-700">
          Nunca foi tão facil planejar uma viajem. <br/>
-         Faça tudo de forma eficaz e sem dor de cabeça.
+         kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
         </p>
         <Link href="#hero" className="ml-25 w-fit mx-auto font-medium text-white bg-fuchsia-500 hover:bg-fuchsia-700 px-5 py-3 rounded-full">Comece agora!</Link>
         </div>
